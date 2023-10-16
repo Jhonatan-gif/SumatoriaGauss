@@ -13,6 +13,7 @@ int main(){
        suma = suma + i;
     }
     
+    printf("El valor es: %d",suma);
 
     return 0;
 }
