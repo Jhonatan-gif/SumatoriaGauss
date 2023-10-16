@@ -4,7 +4,7 @@ int main(){
 
     int num;
     int suma=0;
-
+    printf("SUMATORIA DE GAUSS\n");
     printf("Ingrese el numero: ");
     scanf("%d",&num);
 
